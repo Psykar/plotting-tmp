@@ -1,1 +1,9 @@
+
 plotly
+
+numpy
+matplotlib
+
+plotly
+pandas
+
