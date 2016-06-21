@@ -7,3 +7,6 @@ matplotlib
 plotly
 pandas
 
+scipy
+astropy
+
